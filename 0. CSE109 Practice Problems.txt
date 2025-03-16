@@ -1,0 +1,46 @@
+There are some problem to solve
+
+If-Else:
+1. Write a C program to check whether a year is leap year or not.
+2. Write a C program to input any character and check whether it is alphabet, digit, or special character.
+3. Write a C program to check whether a character is uppercase or lowercase.
+4. Write a C program to input any alphabet and check whether it is vowel or consonant.
+5. Write a C program to input angles of a triangle and check whether the triangle is valid or not.
+6. Write a C program to input all sides of a triangle and check whether the triangle is valid or not.
+7. Write a C program to check whether a given triangle is equilateral, isosceles, or scalene.
+8. Write a C program to find all the roots of a quadratic equation.
+9. Write a C program to enter the marks of a student and find percentage and grade.
+
+
+Switch-Case:
+1. Butterfly problem solved in the class.
+2. Write a C program to enter the marks of a student and find percentage and grade.
+3. Write a C program to design a calculator with basic operations using switch case.
+4. Write a C program to check whether a character is vowel or consonant using switch case.
+5. Write a C program to check whether a number is even or odd using switch case.
+
+
+Loop:
+1. Write a C program that counts the number of digits and calculates the sum of all digits in a given number.
+2. Write a C program that finds the first and last digits of a number and then swaps them.
+3. Write a C program to enter a number and print its reverse.
+4. Write a C program to check whether a number is palindrome or not.
+5. Write a C program to find the frequency of each digit in a given integer.
+6. Write a C program to calculate the factorial of a number.
+7. Write a C program to find the HCF (GCD) and LCM of two numbers.
+8. Practice all types of questions related to prime numbers and Fibonacci series in C.
+9. Write a C program to input a decimal number from the user and convert it to the corresponding binary number.
+10. Practice different pattern programs (series of objects arranged in specific order) in C such as star patterns, or number patterns etc.
+
+
+Array:
+1. Write a C program to find the sum of all array elements.
+2. Write a C program to find the maximum and minimum element in an array.
+3. Write a C program to count total number of even and odd elements in an array.
+4. Write a C program to count total number of negative elements in an array.
+5. Write a C program to insert an element in an array.
+6. Write a C program to delete an element from an array at specified position.
+7. Write a C program to find the reverse of an array.
+8. Write a C program to search a key element in an array using linear/sequential search algorithm.
+9. Write a C program to perform matrix addition, matrix subtraction, scalar multiplication, and matrix multiplication.
+10. Write a C program to check whether two matrices are equal or not.
